@@ -16,6 +16,10 @@ Numpy, Pandas and Scikit Learn.
 
 ● Data Visualization techniques with help of Matplotlib, Seaborn, Plotly 
 
+● Hands-on experience of Deep learning like ANN, CNN, RNN, LSTM
+
+● Good Knowledge in Natural Language Processing i.e NLTK, Sentimental analysis, BagOfWords, Word Embedding, Transformers.
+
 ● Good Knowledge of Bi tools like Tableau and Power bi. 
 
 ● Skilled in libraries like Numpy, Pandas, Matplotlib, Seaborn, Scikit Learn, etc
